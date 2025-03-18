@@ -16,8 +16,7 @@
 - 🐍 Python (Fundamentals) 
 
 🔌 Currently learning:
-- ⚔️ AWS SysOps Administrator
-- ⚔️ Terraform (After SysOps)
+- ⚔️ Terraform 
 
 🚀 Connect with me:
 - LinkedIn: http://linkedin.com/in/zeinn-taroc-564a042a8
