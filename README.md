@@ -3,7 +3,8 @@
 ☕️ Cloud Engineer in the making, building scalable, secure AWS infrastructure. Passionate about networking, security, and automation
 
 💡 Certifications:
-- 🏆 AWS Solutions Architect Associate (SAA-C03)  
+- 🏆 AWS Solutions Architect Associate (SAA-C03)
+- 🏆 AWS SysOps Administrator Associate (SOA-C02) 
 - 🏆 AWS Cloud Practitioner (CLF-C02)  
 - 🏆 CompTIA Linux+ (XK0-005)  
 - 🏆 CompTIA Security+ (SY0-701)  
