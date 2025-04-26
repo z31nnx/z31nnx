@@ -3,6 +3,7 @@
 ☕️ Cloud Engineer in the making, building scalable, secure AWS infrastructure. Passionate about networking, security, and automation
 
 💡 Certifications:
+- 🏆 Hashicorp Certified Terraform Associate
 - 🏆 AWS Solutions Architect Associate (SAA-C03)
 - 🏆 AWS SysOps Administrator Associate (SOA-C02) 
 - 🏆 AWS Cloud Practitioner (CLF-C02)  
@@ -11,9 +12,9 @@
 - 🏆 Google Cybersecurity Professional 
 
 🛠️ Tech Stack:
-- 🐧 Linux 
+- 🐧 Linux
+- ⚙️ Terraform
 - ☁️ AWS (VPC, EC2, S3, IAM, ALB, ASG) 
-- ⚙️ Terraform (Upcoming) 
 - 🐍 Python (Fundamentals) 
 
 🔌 Currently learning:
