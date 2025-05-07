@@ -1,4 +1,4 @@
-## ⚔️ Cloud Engineer | AWS | Linux | Terraform (Soon!)
+## ⚔️ Cloud Engineer | AWS | Linux | Terraform
 
 ☕️ Aspiring Cloud Engineer, building scalable, secure AWS infrastructure. Passionate about networking, security, and automation
 
