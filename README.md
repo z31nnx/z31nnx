@@ -1,6 +1,6 @@
 ## ⚔️ Cloud Engineer | AWS | Linux | Terraform (Soon!)
 
-☕️ Cloud Engineer in the making, building scalable, secure AWS infrastructure. Passionate about networking, security, and automation
+☕️ Aspiring Cloud Engineer, building scalable, secure AWS infrastructure. Passionate about networking, security, and automation
 
 💡 Certifications:
 - 🏆 Hashicorp Certified Terraform Associate
