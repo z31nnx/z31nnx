@@ -1,6 +1,4 @@
-## ⚔️ Cloud Engineer | AWS | Linux | Terraform
-
-☕️ Aspiring Cloud Engineer, building scalable, secure AWS infrastructure. Passionate about networking, security, and automation
+## ⚔️ Cloud Engineer | AWS | Linux | Terraform | Python
 
 💡 Certifications:
 - 🏆 Hashicorp Certified Terraform Associate
@@ -12,13 +10,14 @@
 - 🏆 Google Cybersecurity Professional 
 
 🛠️ Tech Stack:
-- 🐧 Linux
-- ⚙️ Terraform
-- ☁️ AWS (VPC, EC2, S3, IAM, ALB, ASG) 
-- 🐍 Python (Fundamentals) 
+- Linux
+- Terraform
+- AWS (VPC, EC2, S3, IAM, ALB, ASG) 
+- Python (Fundamentals) 
 
 🔌 Currently learning:
-- ⚔️ Terraform 
+- Terraform
+- Python
 
 🚀 Connect with me:
 - LinkedIn: http://linkedin.com/in/zeinn-taroc-564a042a8
