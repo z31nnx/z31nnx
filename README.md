@@ -12,8 +12,9 @@
 🛠️ Tech Stack:
 - Linux
 - Terraform
+- Python
+- CI/CD (GitHub Actions)
 - AWS (VPC, EC2, S3, IAM, ALB, ASG) 
-- Python (Fundamentals) 
 
 🔌 Currently learning:
 - Terraform
