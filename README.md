@@ -1,6 +1,6 @@
 ## ⚔️ Cloud Engineer | AWS | Linux | Terraform | Python
 
-💡 Certifications:
+## Certifications:
 - 🏆 Hashicorp Certified Terraform Associate
 - 🏆 AWS Solutions Architect Associate (SAA-C03)
 - 🏆 AWS SysOps Administrator Associate (SOA-C02) 
@@ -9,18 +9,18 @@
 - 🏆 CompTIA Security+ (SY0-701)  
 - 🏆 Google Cybersecurity Professional 
 
-🛠️ Tech Stack:
+## Tech Stack:
 - Linux
 - Terraform
 - Python
 - CI/CD (GitHub Actions)
 - AWS (VPC, EC2, S3, IAM, ALB, ASG) 
 
-🔌 Currently learning:
+## Currently learning:
 - Terraform
 - Python
 
-🚀 Connect with me:
+## Connect with me:
 - LinkedIn: http://linkedin.com/in/zeinn-taroc-564a042a8
 
 
