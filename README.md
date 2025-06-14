@@ -1,4 +1,4 @@
-## ⚔️ Cloud Engineer | AWS | Linux | Terraform | Python
+## Cloud Engineer | AWS | Linux | Terraform | Python
 
 ## Certifications:
 - 🏆 Hashicorp Certified Terraform Associate
