@@ -12,12 +12,13 @@
 ## Tech Stack:
 - Linux
 - Terraform
-- Python
+- Python (Boto3)
 - CI/CD (GitHub Actions)
 - AWS (VPC, EC2, S3, IAM, ALB, ASG) 
 
 ## Currently learning:
 - Terraform
+- Security
 - Python
 
 ## Connect with me:
