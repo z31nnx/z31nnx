@@ -11,16 +11,18 @@
 - 🏆 Google Cybersecurity Professional 
 
 ## Tech Stack:
-- Linux
-- Terraform
-- Python (Boto3)
-- CI/CD (GitHub Actions)
-- AWS (VPC, EC2, S3, IAM, ALB, ASG) 
+- AWS Cloud: EC2, S3, IAM, VPC, ALB, ASG, RDS, EFS, CloudWatch
+- Infrastructure as Code: Terraform, modules, state management 
+- Automation/Scripting: Python (Boto3), Bash, Git, GitHub Actions (CI/CD), AWS CLI
+- Cloud Security: IAM Policies, WAF, KMS, GuardDuty, CloudTrail, SSM
+- Other Tools/OS: Linux (Amazon Linux 2, CentOS, Ubuntu)
 
 ## Currently learning:
-- Terraform
 - Security
 - Python
+- Lambda
+- Dockers
+- Kubernetes
 
 ## Connect with me:
 - LinkedIn: http://linkedin.com/in/zeinn-taroc-564a042a8
