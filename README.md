@@ -2,6 +2,7 @@
 
 ## Certifications:
 - 🏆 Hashicorp Certified Terraform Associate
+- 🏆 AWS Certified Security Specialty (SCS-C02)
 - 🏆 AWS Solutions Architect Associate (SAA-C03)
 - 🏆 AWS SysOps Administrator Associate (SOA-C02) 
 - 🏆 AWS Cloud Practitioner (CLF-C02)  
