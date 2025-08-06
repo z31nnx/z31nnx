@@ -1,31 +1,39 @@
-## Cloud Engineer | AWS | Linux | Terraform | Python
+## Cloud Engineer 
+AWS | Linux | Terraform | Python | Security
 
-## Certifications:
+---
+
+### Certifications:
 - 🏆 Hashicorp Certified Terraform Associate
-- 🏆 AWS Certified Security Specialty (SCS-C02)
-- 🏆 AWS Solutions Architect Associate (SAA-C03)
-- 🏆 AWS SysOps Administrator Associate (SOA-C02) 
+- 🏆 AWS Certified Security - Specialty (SCS-C02)
+- 🏆 AWS Solutions Architect - Associate (SAA-C03)
+- 🏆 AWS SysOps Administrator - Associate (SOA-C02) 
 - 🏆 AWS Cloud Practitioner (CLF-C02)  
 - 🏆 CompTIA Linux+ (XK0-005)  
 - 🏆 CompTIA Security+ (SY0-701)  
-- 🏆 Google Cybersecurity Professional 
+- 🏆 Google Cybersecurity Professional Certificate
 
-## Tech Stack:
-- AWS Cloud: EC2, S3, IAM, VPC, ALB, ASG, RDS, EFS, CloudWatch
-- Infrastructure as Code: Terraform, modules, state management 
-- Automation/Scripting: Python (Boto3), Bash, Git, GitHub Actions (CI/CD), AWS CLI
-- Cloud Security: IAM Policies, WAF, KMS, GuardDuty, CloudTrail, SSM
-- Other Tools/OS: Linux (Amazon Linux 2, CentOS, Ubuntu)
+---
 
-## Currently learning:
-- Security
-- Python
-- Lambda
-- Dockers
-- Kubernetes
+### Tech Stack:
+- **AWS Cloud:** EC2, S3, IAM, VPC, ALB, ASG, RDS, EFS, CloudWatch
+- **Infrastructure as Code:** Terraform, modules, state management 
+- **Automation/Scripting:** Python (Boto3), Bash, Git, GitHub Actions (CI/CD), AWS CLI
+- **Cloud Security:** IAM Policies, WAF, KMS, GuardDuty, CloudTrail, SSM
+- **Other Tools/OS:** Linux (Amazon Linux 2, CentOS, Ubuntu)
 
-## Connect with me:
-- LinkedIn: http://linkedin.com/in/zeinn-taroc-564a042a8
+---
+
+### Currently learning:
+- AWS Security
+- Python Automation (Boto3 + Lambda)
+- Docker & Containerization
+- Kubernetes (K8s fundamentals & deployment patterns)
+
+---
+
+### Connect with me:
+- LinkedIn: [linkedin.com/zeinn](http://linkedin.com/in/zeinn-taroc-564a042a8)
 
 
 
