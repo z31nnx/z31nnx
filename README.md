@@ -40,7 +40,6 @@ AWS | Linux | Terraform | Python | Security
 - AWS Security
 - Python Automation (Boto3 + Lambda)
 - Docker & Containerization
-- Kubernetes (K8s fundamentals & deployment patterns)
 
 ---
 
