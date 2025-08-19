@@ -1,5 +1,8 @@
-## Cloud Engineer 
-AWS | Linux | Terraform | Python | Security
+## Hello, I'm Zeinn
+
+I love Cloud Computing and Cybersecurity.
+
+Outside of tech, I grind through games like **Dark Souls** (and keep coming back for more suffering). I like games that punish you until you *git gud*. I also train in calisthenics and currently working towards the almighty **Planche** and building longer holds on **Front Lever**.  
 
 ---
 
@@ -36,15 +39,6 @@ AWS | Linux | Terraform | Python | Security
 
 ---
 
-### Currently learning:
-- AWS Security
-- Python Automation (Boto3 + Lambda)
-- Docker & Containerization
-
----
-
-### Connect with me:
-- LinkedIn: [linkedin.com/zeinn](http://linkedin.com/in/zeinn-taroc-564a042a8)
 
 
 
