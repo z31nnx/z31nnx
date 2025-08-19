@@ -8,7 +8,7 @@ Outside of tech, I grind through games like **Dark Souls** (and keep coming back
 
 ### Certifications:
 <p align="left">
-  <img src="https://images.credly.com/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="90" />
+  <img src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="90" />
   <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="90" />
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" />
   <img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="90" />
