@@ -33,7 +33,7 @@ Outside of tech, I grind through games like **Dark Souls** (and keep coming back
 ### Tech Stack:
 - **AWS Cloud:** EC2, S3, IAM, VPC, ALB, ASG, RDS, EFS, CloudWatch
 - **Infrastructure as Code:** Terraform, modules, state management 
-- **Automation/Scripting:** Python (Boto3), Bash, Git, GitHub Actions (CI/CD), AWS CLI
+- **Automation/Scripting:** Python (Boto3), Bash, Git, GitHub Actions (CI/CD)
 - **Cloud Security:** IAM Policies, WAF, KMS, GuardDuty, CloudTrail, SSM
 - **Other Tools/OS:** Linux (Amazon Linux 2, CentOS, Ubuntu)
 
