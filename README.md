@@ -2,7 +2,7 @@
 
 I love Cloud Computing and Cybersecurity. 
 
-Outside of tech, I grind through games like **Dark Souls** (and keep coming back for more suffering). I like games that punish you until you *git gud*. I also train in calisthenics and currently working towards the almighty **Planche** and building longer holds on **Front Lever**.  
+Outside of tech, I grind through games like **Dark Souls** (and keep coming back for more suffering). I like games that punish you until you *git gud*. I also train in calisthenics and currently working towards the almighty **Planche** and building longer holds on **Front Lever**. I also love coffee...
 
 ---
 
@@ -30,11 +30,18 @@ Outside of tech, I grind through games like **Dark Souls** (and keep coming back
 
 ---
 
+### Projects
+- [Aegis AWS Security Automation](https://github.com/z31nnx/aegis-aws-security)
+- [Trident 3-Tier AWS (Manual + Terraform)](https://github.com/z31nnx/trident-aws-3tier)
+- Potential CI/CD + ECS
+
+---
+
 ### Tech Stack:
-- **AWS Cloud:** EC2, S3, IAM, VPC, ALB, ASG, RDS, EFS, CloudWatch
+- **AWS Cloud:** EC2, S3, IAM, VPC, ALB, ASG, RDS, EFS, CloudWatch, Lambda
 - **Infrastructure as Code:** Terraform, modules, state management 
 - **Automation/Scripting:** Python (Boto3), Bash, Git, GitHub Actions (CI/CD)
-- **Cloud Security:** IAM Policies, WAF, KMS, GuardDuty, CloudTrail, SSM
+- **Cloud Security:** IAM, WAF, KMS, GuardDuty, CloudTrail, SSM, Config
 - **Other Tools/OS:** Linux (Amazon Linux 2, CentOS, Ubuntu)
 
 ---
