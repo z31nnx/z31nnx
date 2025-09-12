@@ -31,13 +31,13 @@ Outside of tech, I grind through games like **Dark Souls** (and keep coming back
 ---
 
 ### Projects: The Armory
-- **[Aegis AWS Security Automation](https://github.com/z31nnx/aegis-aws-security)**  
+- 🛡️ **[Aegis AWS Security Automation](https://github.com/z31nnx/aegis-aws-security)**  
   The shield. A fortress of security guardrails: KMS, CloudTrail, Config, GuardDuty, automated remediation. Defense by design.  
 
-- **[Trident 3-Tier AWS Architecture](https://github.com/z31nnx/trident-aws-3tier)**  
+- 🔱 **[Trident 3-Tier AWS Architecture](https://github.com/z31nnx/trident-aws-3tier)**  
   The spear of architecture, 3 prongs. A high-availability 3-tier design built twice: manual and Terraform. Proof of mastery in both craftsmanship and automation.  
 
-- **Gungnir – CI/CD Delivery on ECS (Coming Soon)**  
+- 🎯 **Gungnir – CI/CD Delivery on ECS (Coming Soon)**  
   Odin’s spear, which never misses its mark. This project is my precision strike: secure CI/CD pipelines, container hardening, blue/green deployments, and policy-gated delivery.
 
 
