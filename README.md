@@ -2,7 +2,7 @@
 
 I love Cloud Computing and Cybersecurity. 
 
-Outside of tech, I grind through games like **Dark Souls** (and keep coming back for more suffering). I like games that punish you until you *git gud*. I also train in calisthenics and currently working towards the almighty **Planche** and building longer holds on **Front Lever**. I also love coffee...
+Outside of tech, I grind through games like **Dark Souls** (and keep coming back for more suffering). I like games that punish you until you ***git gud***. I also train in calisthenics and currently working towards the almighty **Planche** and building longer holds on **Front Lever**. I also love coffee...
 
 ---
 
