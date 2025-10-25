@@ -30,7 +30,7 @@ Outside of tech, I grind through games like **Dark Souls** (and keep coming back
 
 ---
 
-### Projects: The Armory
+### Projects
 - 🛡️ **[Aegis AWS Security Automation](https://github.com/z31nnx/aegis-aws-security)**  
   The shield. A fortress of security guardrails: KMS, CloudTrail, Config, GuardDuty, automated remediation. Defense by design.  
 
