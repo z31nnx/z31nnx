@@ -10,6 +10,7 @@ Outside of tech, I grind through games like **Dark Souls** (and keep coming back
 <p align="left">
   <img src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="90" />
   <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="90" />
+  <img src="https://images.credly.com/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="90" />
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" />
   <img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="90" />
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" />
@@ -21,6 +22,7 @@ Outside of tech, I grind through games like **Dark Souls** (and keep coming back
 
 - 🏆 Hashicorp Certified Terraform Associate
 - 🏆 AWS Certified Security - Specialty (SCS-C02)
+- 🏆 AWS Certified Advanced Networking - Specialty (ANS-C01)
 - 🏆 AWS Solutions Architect - Associate (SAA-C03)
 - 🏆 AWS SysOps Administrator - Associate (SOA-C02) 
 - 🏆 AWS Cloud Practitioner (CLF-C02)  
