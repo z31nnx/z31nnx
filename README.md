@@ -2,7 +2,7 @@
 
 I love Cloud Computing and Cybersecurity. 
 
-Outside of tech, I grind through games like **Dark Souls** (and keep coming back for more suffering). I like games that punish you until you ***git gud***. I also train in calisthenics and currently working towards the almighty **Planche** and building longer holds on **Front Lever**. I also love coffee...
+Outside of tech, I train in calisthenics and currently working towards the almighty **Planche** and building longer holds on **Front Lever**. I'm fond of difficult games like Sekiro or outstanding story games such as The Last of Us, RDR2, and Ghost of Tsushima. I also love coffee...
 
 ---
 
@@ -20,7 +20,7 @@ Outside of tech, I grind through games like **Dark Souls** (and keep coming back
 </p>
 
 
-- 🏆 Hashicorp Certified Terraform Associate
+- 🏆 Hashicorp Certified Terraform Associate (003)
 - 🏆 AWS Certified Security - Specialty (SCS-C02)
 - 🏆 AWS Certified Advanced Networking - Specialty (ANS-C01)
 - 🏆 AWS Solutions Architect - Associate (SAA-C03)
