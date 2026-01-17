@@ -2,7 +2,7 @@
 
 I love Cloud Computing and Cybersecurity. 
 
-Outside of tech, I train in calisthenics and currently working towards the almighty **Planche** and building longer holds on **Front Lever**. I'm fond of difficult games like Sekiro or outstanding story games such as The Last of Us, RDR2, and Ghost of Tsushima. I also love coffee...
+Outside of tech, I train in calisthenics and currently working towards the almighty **Planche** and building longer holds on **Front Lever**. I'm fond of difficult games like **Sekiro** or outstanding story games such as The Last of Us, RDR2, and Ghost of Tsushima. I also love **coffee**...
 
 ---
 
@@ -43,7 +43,7 @@ Outside of tech, I train in calisthenics and currently working towards the almig
 ---
 
 ### Tech Stack:
-- **AWS Cloud:** EC2, S3, IAM, VPC, ALB, ASG, RDS, EFS, CloudWatch, Lambda
+- **AWS Cloud:** EC2, S3, IAM, VPC, ALB, ASG, RDS, CloudWatch, Lambda
 - **Infrastructure as Code:** Terraform, modules, state management 
 - **Automation/Scripting:** Python (Boto3), Bash, Git, GitHub Actions (CI/CD)
 - **Cloud Security:** IAM, WAF, KMS, GuardDuty, CloudTrail, SSM, Config
