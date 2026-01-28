@@ -43,11 +43,11 @@ Outside of tech, I train in calisthenics and currently working towards the almig
 ---
 
 ### Tech Stack:
-- **AWS Cloud:** EC2, S3, IAM, VPC, ALB, ASG, RDS, CloudWatch, Lambda
-- **Infrastructure as Code:** Terraform, modules, state management 
-- **Automation/Scripting:** Python (Boto3), Bash, Git, GitHub Actions (CI/CD)
-- **Cloud Security:** IAM, WAF, KMS, GuardDuty, CloudTrail, SSM, Config
-- **Other Tools/OS:** Linux (Amazon Linux 2, CentOS, Ubuntu)
+- **Cloud Platforms:** AWS (EC2, VPC, S3, IAM, ALB, ASG, RDS, Lambda, SSM)
+- **Cloud Security:** IAM, KMS, GuardDuty, CloudTrail, AWS Config, WAF, centralized logging
+- **Automation & IaC:** Terraform, Python (Boto3), Bash, GitHub Actions (CI/CD)
+- **Monitoring & Operations:** CloudWatch, EventBridge
+- **OS & Tooling:** Linux (Amazon Linux 2, Ubuntu, CentOS), Git, GitHub
 
 
 
