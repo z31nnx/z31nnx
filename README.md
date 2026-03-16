@@ -40,17 +40,6 @@ Outside of tech, I train in calisthenics and currently working towards the almig
   The trident of architecture, 3 prongs. A high-availability 3-tier design built twice: manual and Terraform. Proof of mastery in both craftsmanship and automation.  
 
 
----
-
-### Tech Stack:
-- **Cloud Platforms:** AWS (EC2, VPC, S3, IAM, ALB, ASG, RDS, Lambda, SSM)
-- **Cloud Security:** IAM, KMS, GuardDuty, CloudTrail, AWS Config, WAF, centralized logging
-- **Automation & IaC:** Terraform, Python (Boto3), Bash, GitHub Actions (CI/CD)
-- **Monitoring & Operations:** CloudWatch, EventBridge
-- **OS & Tooling:** Linux (Amazon Linux 2, Ubuntu, CentOS), Git, GitHub
-
-
-
 
 <!--
 **z31nnx/z31nnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
