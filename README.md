@@ -33,11 +33,11 @@ Outside of tech, I train in calisthenics and currently working towards the almig
 ---
 
 ### Projects:
-- 🛡️ **[Aegis AWS Security Automation](https://github.com/z31nnx/aegis-aws-security)**  
-  The shield. A fortress of security guardrails: KMS, CloudTrail, Config, GuardDuty, automated remediation. Defense by design.  
+- 🛡️ **[Aegis](https://github.com/z31nnx/aegis-aws-security)**  
+  AWS serverless security automation with lambda, guardrails, logging, detection, and remediation 
 
-- 🔱 **[Trident 3-Tier AWS Architecture](https://github.com/z31nnx/trident-aws-3tier)**  
-  The trident of architecture, 3 prongs. A high-availability 3-tier design built twice: manual and Terraform. Proof of mastery in both craftsmanship and automation.  
+- 🔱 **[Trident](https://github.com/z31nnx/trident-aws-3tier)**  
+  Modular 3-tier AWS infrastructure built manually and with Terraform
 
 
 
