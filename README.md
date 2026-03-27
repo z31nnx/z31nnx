@@ -1,12 +1,12 @@
 ## Hello, I'm Zeinn
 
-I love Cloud Computing and Cybersecurity. 
+I love Cloud Computing and Cybersecurity.
 
-Outside of tech, I train in calisthenics and currently working towards the almighty **Planche** and building longer holds on **Front Lever**. I'm fond of difficult games like **Sekiro** or outstanding story games such as The Last of Us, RDR2, and Ghost of Tsushima. I also love **coffee**...
+Outside of tech, I train calisthenics and am currently working toward the almighty **Planche** while building longer holds on **Front Lever**. I'm also fond of difficult games like **Sekiro** and story-rich games such as **The Last of Us**, **RDR2**, and **Ghost of Tsushima**. I also love **coffee**...
 
 ---
 
-### Certifications:
+### Certifications
 <p align="left">
   <img src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="90" />
   <img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="90" />
@@ -19,25 +19,15 @@ Outside of tech, I train in calisthenics and currently working towards the almig
   <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="90" />
 </p>
 
-
-- 🏆 Hashicorp Certified Terraform Associate (003)
-- 🏆 AWS Certified Security - Specialty (SCS-C02)
 - 🏆 AWS Certified Advanced Networking - Specialty (ANS-C01)
+- 🏆 AWS Certified Security - Specialty (SCS-C02)
 - 🏆 AWS Solutions Architect - Associate (SAA-C03)
-- 🏆 AWS SysOps Administrator - Associate (SOA-C02) 
-- 🏆 AWS Cloud Practitioner (CLF-C02)  
-- 🏆 CompTIA Linux+ (XK0-005)  
-- 🏆 CompTIA Security+ (SY0-701)  
+- 🏆 AWS SysOps Administrator - Associate (SOA-C02)
+- 🏆 HashiCorp Certified Terraform Associate (003)
+- 🏆 CompTIA Linux+ (XK0-005)
+- 🏆 CompTIA Security+ (SY0-701)
+- 🏆 AWS Cloud Practitioner (CLF-C02)
 - 🏆 Google Cybersecurity Professional Certificate
-
----
-
-### Projects:
-- 🛡️ **[Aegis AWS Security Automation](https://github.com/z31nnx/aegis-aws-security)**  
-  AWS serverless security automation with lambda, guardrails, logging, detection, and remediation 
-
-- 🔱 **[Trident 3-Tier AWS Architecture](https://github.com/z31nnx/trident-aws-3tier)**  
-  Modular 3-tier AWS infrastructure built manually and with Terraform
 
 
 
