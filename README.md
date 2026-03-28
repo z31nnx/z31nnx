@@ -6,6 +6,12 @@ Outside of tech, I train calisthenics and am currently working toward the almigh
 
 ---
 
+### Projects
+- 🛡️ [**Aegis**](https://github.com/z31nnx/aegis-aws-security) – AWS security automation project  
+- 🔱 [**Trident**](https://github.com/z31nnx/trident-aws-3tier) – AWS 3-tier infrastructure project
+
+---
+
 ### Certifications
 <p align="left">
   <img src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="90" />
@@ -28,12 +34,6 @@ Outside of tech, I train calisthenics and am currently working toward the almigh
 - 🏆 CompTIA Security+ (SY0-701)
 - 🏆 AWS Cloud Practitioner (CLF-C02)
 - 🏆 Google Cybersecurity Professional Certificate
-
----
-
-### Projects
-- 🛡️ [**Aegis**](https://github.com/z31nnx/aegis-aws-security) – AWS security automation project  
-- 🔱 [**Trident**](https://github.com/z31nnx/trident-aws-3tier) – AWS 3-tier infrastructure project
 
 <!--
 **z31nnx/z31nnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
