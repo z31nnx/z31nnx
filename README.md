@@ -32,8 +32,8 @@ Outside of tech, I train calisthenics and am currently working toward the almigh
 ---
 
 ### Projects
-- [**Aegis**](https://github.com/z31nnx/aegis-aws-security) – AWS security automation project  
-- [**Trident**](https://github.com/z31nnx/trident-aws-3tier) – AWS 3-tier infrastructure project
+- 🛡️ [**Aegis**](https://github.com/z31nnx/aegis-aws-security) – AWS security automation project  
+- 🔱 [**Trident**](https://github.com/z31nnx/trident-aws-3tier) – AWS 3-tier infrastructure project
 
 <!--
 **z31nnx/z31nnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
