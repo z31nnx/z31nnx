@@ -2,7 +2,7 @@
 
 I love Cloud Computing and Cybersecurity.
 
-Outside of tech, I train calisthenics and am currently working toward the almighty **Planche** while building longer holds on **Front Lever**. I'm also fond of difficult games like **Sekiro** and story-rich games such as **The Last of Us**, **RDR2**, and **Ghost of Tsushima**. I also love **coffee**...
+Outside of tech, I train calisthenics and am currently working toward the almighty **Planche** while building longer holds on **Front Lever**. I'm also fond of difficult games like **Sekiro** and story-rich games such as **The Last of Us**, **RDR2**, and **Ghost of Tsushima**. I also love **coffee** and **art**... 
 
 ---
 
