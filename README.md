@@ -7,6 +7,7 @@ Outside of tech, I train calisthenics and am currently working toward the almigh
 ---
 
 ### Projects
+- 🌹 [**Red Bloom**](https://z31nnx.com) - My personal website 
 - 🛡️ [**Aegis**](https://github.com/z31nnx/aegis-aws-security) – AWS security automation project  
 - 🔱 [**Trident**](https://github.com/z31nnx/trident-aws-3tier) – AWS 3-tier infrastructure project
 
