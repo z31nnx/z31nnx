@@ -26,6 +26,17 @@ Outside of tech, I train calisthenics and am currently working toward the almigh
   <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="90" />
 </p>
 
+- 🏆 AWS Certified Advanced Networking - Specialty (ANS-C01)
+- 🏆 AWS Certified Security - Specialty (SCS-C02)
+- 🏆 AWS Solutions Architect - Associate (SAA-C03)
+- 🏆 AWS SysOps Administrator - Associate (SOA-C02)
+- 🏆 HashiCorp Certified Terraform Associate (003)
+- 🏆 CompTIA Linux+ (XK0-005)
+- 🏆 CompTIA Security+ (SY0-701)
+- 🏆 AWS Cloud Practitioner (CLF-C02)
+- 🏆 Google Cybersecurity Professional Certificate
+
+
 <!--
 **z31nnx/z31nnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
